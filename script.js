@@ -27,4 +27,16 @@ console.log(blank);
 blank = null
 console.log(blank);
 
+// BONUS TERRITORY
+// 1
+const quarter = 0.25, dime = 0.10, nickle = 0.05, penny = 0.01;
 
+// 2
+console.log(quarter, dime, nickle, penny);
+
+// 3
+let letters = "qwertyuiop"
+console.log(letters);
+
+// 4
+console.log(letters[9],letters.length);
