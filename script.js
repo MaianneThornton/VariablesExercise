@@ -12,7 +12,7 @@ num = num + 7
 num += 7;
 
 // 5
-num--
+num--;
 
 // 6
 num = "This is not a number";
@@ -24,7 +24,7 @@ let blank;
 console.log(blank);
 
 // 9
-blank = null
+blank = null;
 console.log(blank);
 
 // BONUS TERRITORY
@@ -35,7 +35,7 @@ const quarter = 0.25, dime = 0.10, nickle = 0.05, penny = 0.01;
 console.log(quarter, dime, nickle, penny);
 
 // 3
-let letters = "qwertyuiop"
+let letters = "qwertyuiop";
 console.log(letters);
 
 // 4
