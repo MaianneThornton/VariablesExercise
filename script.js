@@ -2,7 +2,8 @@
 // const
 
 // 2
-let num = "20";
+let num = 20;
+console.log(num);
 
 // 3
 num = 15;
